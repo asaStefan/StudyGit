@@ -1,2 +1,3 @@
-hello world'
-add a word`
+change  world'-change`:wq
+a word`
+add a line.
